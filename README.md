@@ -2,6 +2,10 @@
 
 このMCP（Model Context Protocol）サーバーは、AI画像生成モデルを使用してテキストプロンプトや画像から動画を生成するツールを提供します。
 
+<a href="https://glama.ai/mcp/servers/@el-el-san/fal-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@el-el-san/fal-mcp-server/badge" alt="AI Video Generator Server MCP server" />
+</a>
+
 ## 対応モデル
 
 - **Luma Ray2 Flash** - Lumaの最先端画像→動画変換モデル
